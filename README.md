@@ -12,7 +12,7 @@
 
 I'm a **Technical Product Manager Intern at [Marketeq Digital](https://marketeqdigital.com)** (Miami, FL), where I drive product discovery and requirements gathering for the Billing & Checkout epic, translating business objectives into user stories and roadmap milestones.
 
-I'm also a **Master's student in Information Science at the University of Wisconsin–Madison** (GPA 4.0/4.0). Previously, I spent 3.5+ years as a **Senior Systems Analyst** embedded at **NPCI** (India's national payments infrastructure) via Qapitol QA, and as a **Business & Quality Analyst** at **ArisGlobal**, working with global pharma clients J&J, AstraZeneca, and Boehringer Ingelheim — where I independently built a BI solution that delivered **$150K in annual savings**.
+I'm also a **Master's student in Information Science at the University of Wisconsin-Madison** (GPA 4.0/4.0). Previously, I spent 3.5+ years as a **Senior Systems Analyst** embedded at **NPCI** (India's national payments infrastructure) via Qapitol QA, and as a **Business & Quality Analyst** at **ArisGlobal**, working with global pharma clients J&J, AstraZeneca, and Boehringer Ingelheim, where I independently built a BI solution that delivered **$150K in annual savings**.
 
 > 🎯 **Actively seeking Fall 2026 Co-ops and Full-Time 2027 roles in Technical Product Management, AI Product Management, Business Analysis, and Technology Consulting.** 📫 Reach me at **sgovindaraj3@wisc.edu**
 
@@ -53,7 +53,7 @@ I'm also a **Master's student in Information Science at the University of Wiscon
 | Project | Description | Code & Links |
 |---|---|---|
 | **Forensic-AI** | Agentic RAG pipeline ingesting **SEC 10-K filings** via EDGAR API, embedding sections into **FAISS**, and applying Claude to produce structured JSON audit findings with severity ratings and a 0–100 risk score. Features an agentic follow-up loop where the LLM drives its own context retrieval. | 💻 [**View Repo**](https://github.com/capsaarang/forensic-ai) |
-| **AI PRD Generator** | Streamlit app converting raw feature requests into structured Product Requirements Documents — covering user stories, acceptance criteria, edge cases, and success metrics — in **under 60 seconds**. | 🚀 [**Live Demo**](https://ai-prd-generator-dsx5lesekggb5pj8k7gbsf.streamlit.app)   💻 [**View Repo**](https://github.com/capsaarang/ai-prd-generator) |
+| **AI PRD Generator** | Streamlit app converting raw feature requests into structured Product Requirements Documents, covering user stories, acceptance criteria, edge cases, and success metrics, in **under 60 seconds**. | 🚀 [**Live Demo**](https://ai-prd-generator-dsx5lesekggb5pj8k7gbsf.streamlit.app)   💻 [**View Repo**](https://github.com/capsaarang/ai-prd-generator) |
 | **Social Distancing & Face Mask Detection** | **(IEEE Publication)** CNN-based model using **MobileNetV2** and Euclidean Distance to detect social distancing violations and face mask compliance via camera feed in real time. | 📄 [**IEEE Paper**](https://ieeexplore.ieee.org/document/9645748)   💻 [**View Repo**](https://github.com/capsaarang/Social-distancing-with-face-mask) |
 | **Power Consumption Alert System** | Built at **L&T Technology Services Limited**: IoT power monitoring system using Arduino, ESP8266, and GSM SIM900 for real-time electricity consumption tracking and threshold-based SMS alerts. | 🔒 *Private (Work Experience)* |
 
@@ -61,9 +61,9 @@ I'm also a **Master's student in Information Science at the University of Wiscon
 
 ### ⚡ **Professional Highlights**
 
-- **Product Management (Marketeq Digital):** Drive product discovery and requirements gathering for the Billing & Checkout epic — a 6-step payment flow supporting multiple payment methods — translating business objectives into user stories and acceptance criteria aligned to OKRs.
-- **Payments Infrastructure (NPCI via Qapitol QA):** Defined technical requirements for India's national payments platform, simulating **25,000+ concurrent transactions** to validate scalability, improving platform performance by **35%** and reducing release cycle time by **50%**.
-- **Digital Transformation (ArisGlobal):** Identified a reporting inefficiency and independently built a BI solution using Power BI, AWS, and QuickSight — delivering **$150K in annual operational savings**, recognized with a Spot Award.
+- **Product Management (Marketeq Digital):** Drive product discovery and requirements gathering for the Billing & Checkout epic, a 6-step payment flow supporting multiple payment methods, translating business objectives into user stories and acceptance criteria aligned to OKRs.
+- **Payments Infrastructure (NPCI via Qapitol QA):** Defined technical requirements for India's national payments platform, simulating **25,000+ concurrent transactions** to validate scalability. Improved platform performance by **35%** and reduced release cycle time by **50%**.
+- **Digital Transformation (ArisGlobal):** Identified a reporting inefficiency and independently built a BI solution using Power BI, AWS, and QuickSight, delivering **$150K in annual operational savings**. Recognized with a Spot Award.
 - **Machine Learning (Excelsoft):** Led a team to build and deploy a Naive Bayes predictive model for heart disease classification, achieving **95% accuracy** on a 10K+ patient dataset.
 - **Research:** Published findings in **IEEE** (Social Distancing & Face Mask Detection using CNN) and **IJCTT** (A Survey on Emerging Viruses).
 
