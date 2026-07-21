@@ -52,7 +52,8 @@ I'm also a **Master's student in Information Science at the University of Wiscon
 
 | Project | Description | Code & Links |
 |---|---|---|
-| **Forensic-AI** | Agentic RAG pipeline ingesting **SEC 10-K filings** via EDGAR API, embedding sections into **FAISS**, and applying Claude to produce structured JSON audit findings with severity ratings and a 0–100 risk score. Features an agentic follow-up loop where the LLM drives its own context retrieval. | 💻 [**View Repo**](https://github.com/capsaarang/forensic-ai) |
+| **Forensic-AI** | Agentic RAG pipeline ingesting **SEC 10-K filings** via EDGAR API, embedding sections into **FAISS**, and applying Claude to produce structured JSON audit findings with severity ratings and a 0–100 risk score. | 💻 [**View Repo**](https://github.com/capsaarang/forensic-ai) |
+| **CareerCraft** | Full-stack AI-powered career platform with resume tailoring, application tracking, community feed, interview prep, and admin dashboard. Built with React, Claude API, Supabase, and Netlify. | 🚀 [**Live App**](https://career-craft101.netlify.app)   💻 [**View Repo**](https://github.com/capsaarang/career-craft) |
 | **AI PRD Generator** | Streamlit app converting raw feature requests into structured Product Requirements Documents, covering user stories, acceptance criteria, edge cases, and success metrics, in **under 60 seconds**. | 🚀 [**Live Demo**](https://ai-prd-generator-dsx5lesekggb5pj8k7gbsf.streamlit.app)   💻 [**View Repo**](https://github.com/capsaarang/ai-prd-generator) |
 | **Social Distancing & Face Mask Detection** | **(IEEE Publication)** CNN-based model using **MobileNetV2** and Euclidean Distance to detect social distancing violations and face mask compliance via camera feed in real time. | 📄 [**IEEE Paper**](https://ieeexplore.ieee.org/document/9645748)   💻 [**View Repo**](https://github.com/capsaarang/Social-distancing-with-face-mask) |
 | **Power Consumption Alert System** | Built at **L&T Technology Services Limited**: IoT power monitoring system using Arduino, ESP8266, and GSM SIM900 for real-time electricity consumption tracking and threshold-based SMS alerts. | 🔒 *Private (Work Experience)* |
@@ -71,4 +72,6 @@ I'm also a **Master's student in Information Science at the University of Wiscon
 
 ### 📊 **GitHub Stats**
 
-[![Streak](https://streak-stats.demolab.com/?user=capsaarang&theme=tokyonight&hide_border=true)](https://github.com/capsaarang)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=capsaarang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=capsaarang&layout=compact&theme=tokyonight&hide_border=true)
