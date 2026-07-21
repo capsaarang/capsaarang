@@ -70,8 +70,8 @@ I'm also a **Master's student in Information Science at the University of Wiscon
 
 ### 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=capsaarang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=capsaarang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=capsaarang&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=capsaarang&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=capsaarang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
