@@ -70,7 +70,7 @@ I'm also a **Master's student in Information Science at the University of Wiscon
 
 ### 📊 **GitHub Stats**
 
-![Contribution Graph](https://ghchart.rshah.org/5B8FF9/capsaarang)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=capsaarang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 | 📦 Total Commits (2026) | ⭐ Stars Earned | 🚀 Live Projects | 📄 Publications |
 |---|---|---|---|
