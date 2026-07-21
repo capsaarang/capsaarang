@@ -68,10 +68,10 @@ I'm also a **Master's student in Information Science at the University of Wiscon
 - **Machine Learning (Excelsoft):** Led a team to build and deploy a Naive Bayes predictive model for heart disease classification, achieving **95% accuracy** on a 10K+ patient dataset.
 - **Research:** Published findings in **IEEE** (Social Distancing & Face Mask Detection using CNN) and **IJCTT** (A Survey on Emerging Viruses).
 
-### 📊 **GitHub Stats**
+### 📊 **GitHub Activity**
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=capsaarang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Contribution Graph](https://ghchart.rshah.org/5B8FF9/capsaarang)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=capsaarang&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=capsaarang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+> 🔥 **260+ commits in 2026** across AI, product, and full-stack projects  
+> ⭐ **4 stars** earned across repos  
+> 🚀 **5 live projects** — Forensic-AI · CareerCraft · AI PRD Generator · Power Consumption · Social Distancing CNN
