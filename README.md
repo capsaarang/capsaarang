@@ -41,8 +41,8 @@ Now I'm building AI products. In finance, an AI that is confidently wrong is wor
 
 ### Research
 
-- **IEEE:** [Monitoring of Social Distancing and Face Mask using CNN](https://ieeexplore.ieee.org/document/9645748) (2021) · [Code](https://github.com/capsaarang/Social-distancing-with-face-mask)
-- **IJCTT:** [A Survey on Emerging Viruses](https://ijcttjournal.org/archives/ijctt-v69i4p110) (computer viruses and malware)
+- **Monitoring of Social Distancing and Face Mask using CNN** · IEEE · 2021 · [Paper ↗](https://ieeexplore.ieee.org/document/9645748) · [Code ↗](https://github.com/capsaarang/Social-distancing-with-face-mask)
+- **A Survey on Emerging Viruses** · IJCTT · computer viruses and malware · [Paper ↗](https://ijcttjournal.org/archives/ijctt-v69i4p110)
 
 ---
 
@@ -102,4 +102,7 @@ Now I'm building AI products. In finance, an AI that is confidently wrong is wor
 
 ### Certifications
 
-Claude Certified Associate: Foundations (Anthropic) · Google Project Management Certificate · Bloomberg Market Concepts · [AI for Legal Basics (Harvey Academy)](https://www.credly.com/badges/f455f800-16e8-42c1-8609-ff7ed5385c86)
+- **Claude Certified Associate: Foundations** · Anthropic
+- **Google Project Management Certificate** · Google
+- **Bloomberg Market Concepts** · Bloomberg
+- **AI for Legal Basics** · Harvey Academy · [Verify ↗](https://www.credly.com/badges/f455f800-16e8-42c1-8609-ff7ed5385c86)
