@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=260&section=header&text=Saarang%20Govinda%20Rajan&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Technical%20%26%20AI%20Product%20Manager%20%7C%20MS%20Information%20Science%20%40%20UW-Madison&descAlignY=60&descSize=20)](https://capsaarang.github.io/myportfolio)
+[![Saarang Govinda Rajan](banner.svg)](https://capsaarang.github.io/myportfolio)
 
 <p align="center">
   <a href="https://capsaarang.github.io/myportfolio/"><img src="https://img.shields.io/badge/Portfolio-5B8FF9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -52,6 +52,10 @@ Now I'm building AI products. In finance, an AI that is confidently wrong is wor
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Roadmapping](https://img.shields.io/badge/Roadmapping-1A3A5C?style=for-the-badge&logoColor=white)
+![User Stories](https://img.shields.io/badge/User%20Stories-1A3A5C?style=for-the-badge&logoColor=white)
+![Agile/Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-1A3A5C?style=for-the-badge&logoColor=white)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-1A3A5C?style=for-the-badge&logoColor=white)
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,6 +69,7 @@ Now I'm building AI products. In finance, an AI that is confidently wrong is wor
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-6D28D9?style=for-the-badge&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-1E3A5F?style=for-the-badge&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Data**
@@ -84,6 +89,14 @@ Now I'm building AI products. In finance, an AI that is confidently wrong is wor
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![LoadRunner](https://img.shields.io/badge/LoadRunner-0073E7?style=for-the-badge&logoColor=white)
 ![Gatling](https://img.shields.io/badge/Gatling-FF9E2A?style=for-the-badge&logo=gatling&logoColor=white)
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=capsaarang&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_current_streak=true" alt="Longest GitHub streak" />
+</p>
 
 ---
 
